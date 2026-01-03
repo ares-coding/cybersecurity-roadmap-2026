@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cybersecurity-roadmap-cover.png" width="90%">
+</p>
+
 # 🛡️ Cybersecurity Roadmap (2026)
 
 A practical, beginner-to-advanced roadmap to learn **Cybersecurity**, covering fundamentals, tools, hands-on labs, and career paths.
