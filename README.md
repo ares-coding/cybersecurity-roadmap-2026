@@ -1,6 +1,14 @@
 <p align="center">
   <img src="./assets/cybersecurity-roadmap-cover.png" width="90%">
 </p>
+<p align="center">
+  <i>Visual learning path from fundamentals to cybersecurity career roles</i>
+</p>
+
+<br/>
+
+# 🛡️ Cybersecurity Roadmap (2026)
+
 
 # 🛡️ Cybersecurity Roadmap (2026)
 
