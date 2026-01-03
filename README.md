@@ -9,9 +9,6 @@
 
 # 🛡️ Cybersecurity Roadmap (2026)
 
-
-# 🛡️ Cybersecurity Roadmap (2026)
-
 A practical, beginner-to-advanced roadmap to learn **Cybersecurity**, covering fundamentals, tools, hands-on labs, and career paths.
 
 This roadmap is designed for:
@@ -26,10 +23,12 @@ This roadmap is designed for:
 Learn the core concepts before diving deep.
 
 - What is Cybersecurity  
-  https://www.cisa.gov/what-is-cybersecurity
+  [https://www.cisa.gov/what-is-cybersecurity](https://www.cisa.gov/cybersecurity
+)
 
 - CIA Triad (Confidentiality, Integrity, Availability)  
-  https://www.cloudflare.com/learning/security/glossary/cia-triad/
+  https://www.cloudflare.com/learning/security/what-is-the-cia-triad/
+
 
 - Types of Cyber Attacks  
   https://www.ibm.com/topics/cyber-attack
