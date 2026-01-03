@@ -23,12 +23,10 @@ This roadmap is designed for:
 Learn the core concepts before diving deep.
 
 - What is Cybersecurity  
-  [https://www.cisa.gov/what-is-cybersecurity](https://www.cisa.gov/cybersecurity
-)
+  https://www.cisa.gov/cybersecurity
 
 - CIA Triad (Confidentiality, Integrity, Availability)  
   https://www.cloudflare.com/learning/security/what-is-the-cia-triad/
-
 
 - Types of Cyber Attacks  
   https://www.ibm.com/topics/cyber-attack
@@ -97,7 +95,7 @@ Focus on detection, monitoring, and defense.
   https://www.splunk.com/en_us/what-is-siem.html
 
 - Incident Response Lifecycle  
-  https://www.sans.org/white-papers/incident-handling-step-step/
+  https://www.sans.org/incident-response/
 
 ---
 
@@ -179,5 +177,5 @@ Consistency > Speed.
 
 ---
 
-📌 **Maintained by:** Au Amores (ares-coding) 
+📌 **Maintained by:** Au Amores (ares-coding)  
 📅 **Last Updated:** 2026
